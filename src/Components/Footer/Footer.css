@@ -1,0 +1,10 @@
+#FContainer{
+    background: #000000;
+    padding-top: 1.5rem;
+    color: #5c83b4;
+    padding-bottom: 1.5rem;
+}
+#FContainer h1{
+    font-size: 1.5rem;
+    font-weight: 500;
+}

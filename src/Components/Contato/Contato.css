@@ -1,0 +1,138 @@
+#Ccontainer{
+    background: #4b4b4b;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    display: flex;
+}
+#Ccontainer h1{
+    font-size: 4rem;
+    text-align: start;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+    color: #5c83b4;
+}
+#Ccontainer form{
+    border: 3px solid #5c83b4;
+    border-radius: 6px 90px;
+    padding: 2rem;
+    margin: 3rem;
+}
+#Ccontainer form label{
+    text-align: left;
+    font-size: 1.3rem;
+    color: #5c83b4;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    padding-top: 1rem;
+    border-bottom: 3px solid #5c83b4;
+}
+#Ccontainer form #texto{
+    margin-bottom: 2rem;
+}
+#Ccontainer form button{
+    padding: 2px 30px;
+    font-weight: 500;
+    font-size: 1.6rem;
+    color: #4b4b4b;
+    background-color: #5c83b4;
+    border: 2px solid transparent;
+    transition: .7s;
+}
+#Ccontainer form button:hover{
+    color: #5c83b4;
+    background: transparent;
+    border: 2px solid #5c83b4;
+}
+#Ccontainer ul li{
+    text-decoration: none;
+    /* font-size: 3rem; */
+    font-weight: 700;
+    transition: .7s;
+    color: #fff;
+}
+#Ccontainer #sm ul{
+    width: 80%;
+}
+#Ccontainer #sm ul li{
+    font-size: 3rem;
+}
+#Ccontainer #tw ul li{
+    font-size: 3rem;
+}
+#Ccontainer ul #link a{
+    color: #0e76a8;
+}
+#Ccontainer ul #link a:hover{
+    color: #066999;
+}
+#Ccontainer ul #git a{
+    color: #171515;
+}
+#Ccontainer ul #git a:hover{
+    color: #080707;
+}
+#Ccontainer ul #insta a{
+    color: #fff; 
+}
+#Ccontainer ul #insta a:hover{
+    color: #066999;
+}
+#Ccontainer ul #whats a{
+    color: #34af23;
+}
+#Ccontainer ul #whats a:hover{
+    color: #0f7800;
+}
+#Ccontainer #tools{
+    margin-top: 4rem;
+}
+/* tools */
+#Ccontainer #col2{
+    margin-left: 4rem;
+    width: 40%;
+}
+#Ccontainer #tools{
+    margin-top: 0;
+} 
+#Ccontainer ul #react a{
+    color: #61dbfb;
+}
+#Ccontainer ul #react a:hover{
+    color: #08beed;
+}
+#Ccontainer ul #sass a{
+    color: #cd669a;
+}
+#Ccontainer ul #sass a:hover{
+    color: #d23182;
+}
+#Ccontainer ul #js a{
+    color: #f7df1e;
+}
+#Ccontainer ul #js a:hover{
+    color: #ccb500;
+}
+#Ccontainer ul #html a{
+    color: #e44d26;
+}
+#Ccontainer ul #html a:hover{
+    color: #e23104;
+}
+#Ccontainer ul #css a{
+    color: #2177ff;
+}
+#Ccontainer ul #css a:hover{
+    color: #005ef2;
+}
+#Ccontainer ul #bootstrap a{
+    color: #583d80;
+}
+#Ccontainer ul #bootstrap a:hover{
+    color: #452179;
+}
+#Ccontainer ul #node a{
+    color: #83cd29;
+}
+#Ccontainer ul #node a:hover{
+    color: #548f0c;
+}

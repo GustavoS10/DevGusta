@@ -1,0 +1,7 @@
+#NavContainer{
+    background: #5c83b4;
+}
+#NavContainer #Navbar{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
