@@ -10,7 +10,7 @@ const Apresentacao = () => {
         <h1>I'm Gusta, <br /></h1>
         <h1>Web Dev</h1>
         <br />
-        <span id="job">Front End Developer / React.Js Júnior</span>
+        <span id="job">Front End Developer / React.Js Júnior / Mobile</span>
       </Container>
     </>
   )
