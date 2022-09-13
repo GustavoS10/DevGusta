@@ -18,7 +18,8 @@ const Sobre = () => {
               as React.Js, Bootstrap 5 as ReactStrap, little Node.Js for terminal install 
               commands and TypeScript librearies for a little better animation, for last, 
               but not less important, all my knowledges in CSS3, JavaScript and HTML5!
-              <span id="site">This site has uploaded in Heroku server!</span>
+              <br/>
+              <span id="site">This site has uploaded in Vercel server!</span>
             </p>
         </Container>
     </div>
