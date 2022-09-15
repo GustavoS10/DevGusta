@@ -68,43 +68,43 @@ const Contato = () => {
             <h1 id="tools">Tool's i work:</h1>
             <Nav justified>
               <NavItem id='react'>
-                <NavLink href="https://wa.me/+5549991713632">
+                <NavLink href="https://pt-br.reactjs.org/">
                   <IoLogoReact/>
                 </NavLink>
               </NavItem>
 
               <NavItem id='sass'>
-                <NavLink href="https://www.instagram.com/else.gustas/">
+                <NavLink href="https://sass-lang.com/">
                   <IoLogoSass/>
                 </NavLink>
               </NavItem>
 
               <NavItem id='js'>
-                <NavLink href="https://github.com/GustavoS10/GustavoS10">
+                <NavLink href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
                   <IoLogoJavascript/>
                 </NavLink>
               </NavItem>
 
               <NavItem id='html'>
-                <NavLink href="https://www.linkedin.com/in/gustavo-sovrani/">
+                <NavLink href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
                 <IoLogoHtml5/>
                 </NavLink>
               </NavItem>
 
               <NavItem id='css'>
-                <NavLink href="https://www.linkedin.com/in/gustavo-sovrani/">
+                <NavLink href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
                 <IoLogoCss3/>
                 </NavLink>
               </NavItem>
 
               <NavItem id='bootstrap'>
-                <NavLink href="https://www.linkedin.com/in/gustavo-sovrani/">
+                <NavLink href="https://getbootstrap.com/">
                 <BsBootstrapFill/>
                 </NavLink>
               </NavItem>
 
               <NavItem id='node'>
-                <NavLink href="https://www.linkedin.com/in/gustavo-sovrani/">
+                <NavLink href="https://nodejs.org/en/docs/">
                 <IoLogoNodejs/>
                 </NavLink>
               </NavItem>
