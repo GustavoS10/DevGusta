@@ -1,0 +1,19 @@
+#cAbout{
+    background: rgb(162, 35, 101, .9);
+    padding: 4rem;
+}
+
+#cAbout .text{
+    text-align: start;
+    padding: 2rem;
+    display: flex;
+    color: #ffffff;
+}
+#cAbout .text #title{
+    margin-bottom: 2rem;
+    font-style: italic;
+    font-weight: 500;
+}
+#cAbout .text .animate__slideInLeft{
+    --animation-delay: 0.9s;
+}

@@ -1,0 +1,11 @@
+#cF{
+    background: #fff;
+    border-radius: 40px;
+    max-width: 80%;
+}
+#cF h1{
+    font-style: italic;
+    font-weight: 500;
+    font-size: 2rem;
+    padding: 0.5rem;
+}

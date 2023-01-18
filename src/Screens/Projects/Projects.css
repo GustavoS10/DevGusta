@@ -1,0 +1,16 @@
+#cProjects{
+    background: rgb(123, 104, 238, .7);
+    padding: 4rem;
+}
+#cProjects h1{
+    font-style: italic;
+    color: #FFF;
+}
+#cProjects .card-group .card{
+    opacity: 0.6;
+    transition: 0.5s;
+    margin: 2rem;
+}
+#cProjects .card-group .card:hover{
+    opacity: 1.0;
+}

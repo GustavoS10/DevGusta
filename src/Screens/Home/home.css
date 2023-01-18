@@ -1,0 +1,132 @@
+#principal{
+    width: 100%;
+    height: 100%;
+    /*background-image: url('../../images/star.png');*/
+}
+#parallax{
+    background-image: url('../../images/star.png');
+}
+#parallax #clouds img{
+    width: 40%;
+    transform: rotateY(180deg);
+}
+#parallax #earth img{
+    width: 10%;
+    position: relative;
+    margin-left: 75%;
+    margin-top: 25%;
+}
+#parallax #Astronauta img{
+    width: 30%;
+    margin-top: 3rem;
+}
+#parallax #Astronauta #TextP{
+    color: #FFF;
+    font-size: 4rem;
+    font-style: italic;
+    font-weight: 500;
+}
+#parallax .nav-item a{
+    color: pink;
+    font-size: 2rem;
+}
+#parallax #whats a{
+    color: #34af23;
+    background: rgb(52, 175, 35, .3);
+}
+#parallax #whats a:hover{
+    color: #177a0a;
+    background: rgb(23, 122, 10, .2);
+}
+#parallax #insta a{
+    color: #517fa4;
+    background: rgb(81, 127, 164, .3);
+}
+#parallax #insta a:hover{
+    color: #1d486c;
+    background: rgb(29, 72, 108, .2);
+}
+#parallax #git a{
+    color: #ffffff;
+    background: rgb(0, 0, 0, .3);
+}
+#parallax #git a:hover{
+    color: #1e1c1c;
+    background: rgb(30, 28, 28, .2);
+}
+#parallax #link a{
+    color: #007bb6;
+    background: rgb(0, 123, 182, .3);
+}
+#parallax #link a:hover{
+    color: #0976b4;
+    background: rgb(9, 118, 180, .2);
+}
+#parallax #react a{
+    color: #61dbfb;
+    background: rgb(58, 153, 177, .3)
+}
+#parallax #react a:hover{
+    color: #08beed;
+    background: rgb(8, 190, 237, .2)
+}
+#parallax #sass a{
+    color: #cd669a;
+    background: rgb(205, 102, 154, .3)
+}
+#parallax #sass a:hover{
+    color: #d23182;
+    background: rgb(210, 49, 130, .2)
+}
+#parallax #js a{
+    color: #f7df1e;
+    background: rgb(229, 203, 6, .3)
+}
+#parallax #js a:hover{
+    color: #ccb500;
+    background: rgb(204, 181, 0, .2);
+}
+#parallax #html a{
+    color: #e44d26;
+    background: rgb(228, 77, 38, .3)
+}
+#parallax #html a:hover{
+    color: #e23104;
+    background: rgb(226, 49, 4, .2)
+}
+#parallax #css a{
+    color: #2177ff;
+    background: rgb(33, 119, 255, .3)
+}
+#parallax #css a:hover{
+    color: #005ef2;
+    background: rgb(0, 94, 242, .2)
+}
+#parallax #bootstrap a{
+    color: #452179;
+    background: rgb(88, 61, 128, .3)
+}
+#parallax #bootstrap a:hover{
+    color: #452179;
+    background: rgb(69, 33, 121, .2)
+}
+#parallax #node a{
+    color: #83cd29;
+    background: rgb(131, 205, 41, .3)
+}
+#parallax #node a:hover{
+    color: #548f0c;
+    background: rgb(84, 143, 12, .2)
+}
+#parallax #SM{
+    color: #FFF;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 4rem;
+}
+#paralax #navElements{
+    margin-top: 3rem;
+}
+#pApresentation{
+    background: transparent;
+}
